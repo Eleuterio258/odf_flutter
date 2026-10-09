@@ -18,10 +18,9 @@ Biblioteca Dart e Flutter para criar, ler, preencher e converter documentos Open
 
 ## Instalação
 
-```yaml
-dependencies:
-  odf_flutter:
-    git: https://github.com/Eleuterio258/odf_flutter.git
+```bash
+dart pub add odf_flutter      # projeto Dart
+flutter pub add odf_flutter   # projeto Flutter
 ```
 
 ```dart
