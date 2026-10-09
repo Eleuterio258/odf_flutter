@@ -1,0 +1,15 @@
+# Dart
+.dart_tool/
+build/
+pubspec.lock
+doc/api/
+
+# Arquivos gerados por example/main.dart
+/exemplo.*
+/recibo.odt
+/itens.ods
+
+# IDE
+.idea/
+*.iml
+.vscode/

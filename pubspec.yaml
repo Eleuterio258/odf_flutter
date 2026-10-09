@@ -1,0 +1,26 @@
+name: odf_flutter
+description: >-
+  Leitura, criação, preenchimento de modelos e conversão de documentos
+  OpenDocument Format (ODT, ODS e ODP) para Dart e Flutter.
+version: 0.3.0
+homepage: https://github.com/eleuterio258/odf_flutter
+repository: https://github.com/eleuterio258/odf_flutter
+issue_tracker: https://github.com/eleuterio258/odf_flutter/issues
+topics:
+  - odf
+  - opendocument
+  - libreoffice
+  - spreadsheet
+  - documents
+publish_to: none
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  archive: ^4.0.7
+  xml: ^6.5.0
+
+dev_dependencies:
+  test: ^1.25.0
+  lints: ^5.0.0
