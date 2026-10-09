@@ -14,5 +14,3 @@ doc/api/
 *.iml
 .vscode/
 
-# Mantido apenas localmente
-/README.md
